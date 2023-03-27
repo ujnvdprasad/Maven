@@ -265,7 +265,7 @@ class MainClass{
         System.out.println();
         for(int b=1;b<=a;b++){
             for(int c=1;c<=b-1;c++){
-                System.out.print(" ");
+                System.out.print(" ");ghhh
             }
             for(int c=a-b+1;c>=1;c--){
                 System.out.print(b+" ");
